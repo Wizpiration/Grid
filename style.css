@@ -44,11 +44,16 @@ body {
 }
 
 .link {
-  color: coral;
+  color: black;
   text-decoration: none;
-  font-size: large;
+  font-size: 1.2rem;
   text-align: center;
 }
+
 .btn {
   background-color: brgb(97, 94, 91);
+}
+
+.btn-center {
+  justify-items: center;
 }

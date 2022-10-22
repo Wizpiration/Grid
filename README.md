@@ -1,3 +1,3 @@
-# Css GRID
+# CSS Flexbox and GRID Layout
 
-Css grid task
+This is a design on CSS Flexbox and Grid.
